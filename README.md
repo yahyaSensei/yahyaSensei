@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yahyaSensei
-<script src="https://tryhackme.com/badge/1748821"></script>
+![[https://tryhackme.com/badge/1748821]]
 
 <!---
 yahyaSensei/yahyaSensei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
